@@ -18,8 +18,8 @@ namespace notas.Negocio
             datos.Ciclo1 = (datos.Periodo1 + datos.Periodo1 + datos.Periodo1) / 3;
             datos.Ciclo1 = Convert.ToDouble(datos.Ciclo1);
 
-            return "\n Nombre; " + datos.Nombre + "\n Apellido; " + datos.Apellido +
-                "\nPeriodo1: " + datos.Periodo1 + " \nPeriodo2: " + datos.Periodo2 + "\nPeriodo3: " + datos.Periodo3 + "\n Promedio final; " +datos.Ciclo1;
+            return "\nNombre; " + datos.Nombre + "\nApellido; " + datos.Apellido +
+                "\nPeriodo 1: " + datos.Periodo1 + " \nPeriodo 2: " + datos.Periodo2 + "\nPeriodo 3: " + datos.Periodo3 + "\nPromedio final; " +datos.Ciclo1;
         }
     }
 }
