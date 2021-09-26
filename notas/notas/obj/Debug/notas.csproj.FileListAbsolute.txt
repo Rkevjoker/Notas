@@ -1,0 +1,10 @@
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\bin\Debug\notas.exe.config
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\bin\Debug\notas.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\bin\Debug\notas.pdb
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\obj\Debug\notas.csproj.AssemblyReference.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\obj\Debug\notas.Form1.resources
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\obj\Debug\notas.Properties.Resources.resources
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\obj\Debug\notas.csproj.GenerateResource.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\obj\Debug\notas.csproj.CoreCompileInputs.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\obj\Debug\notas.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\Notas\notas\notas\obj\Debug\notas.pdb
